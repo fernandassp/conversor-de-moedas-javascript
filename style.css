@@ -1,0 +1,17 @@
+#btnconv{
+    background-color: rgb(182, 218, 250);
+    border: solid thin;
+    font-size: larger;
+    font-weight: 600;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#divbtn{
+    text-align: center;
+}
+
+#body{
+    align-content: center;
+    height: 700px;
+}
